@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1712166022 source:c:\users\administrador\documents\codeblock\gestiondebibliotecaf\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	"Biblioteca.h"
+	"Libro.h"
+	"LibroDigital.h"
+	"Solicitud.h"
+
+1712165948 source:c:\users\administrador\documents\codeblock\gestiondebibliotecaf\src\libro.cpp
+	"Libro.h"
+	<string>
+	<iostream>
+
+1712165949 c:\users\administrador\documents\codeblock\gestiondebibliotecaf\include\libro.h
+	<string>
+
+1712165493 source:c:\users\administrador\documents\codeblock\gestiondebibliotecaf\src\librodigital.cpp
+	"LibroDigital.h"
+	<iostream>
+
+1712166040 c:\users\administrador\documents\codeblock\gestiondebibliotecaf\include\librodigital.h
+	"Libro.h"
+
+1712165656 source:c:\users\administrador\documents\codeblock\gestiondebibliotecaf\src\solicitud.cpp
+	"Solicitud.h"
+	<iostream>
+
+1712165656 c:\users\administrador\documents\codeblock\gestiondebibliotecaf\include\solicitud.h
+	<string>
+
+1712165784 source:c:\users\administrador\documents\codeblock\gestiondebibliotecaf\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iostream>
+	<algorithm>
+
+1712165784 c:\users\administrador\documents\codeblock\gestiondebibliotecaf\include\biblioteca.h
+	<vector>
+	"Libro.h"
+	"Solicitud.h"
+
